@@ -83,6 +83,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-Special thanks to Dr. Kathy Han, Dr. contributors and data providers for making this research possible.
+Special thanks to Dr. Kathy Han & Dr. Benjamin Haibe Kans, Dr. Philip Ye, Jessica Weiss & all corresponding contributors and data providers for making this research possible.
 
 Feel free to contribute, report issues, or suggest improvements!s
