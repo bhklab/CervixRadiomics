@@ -1,4 +1,4 @@
-# CervixRadiomic# Project Title: Cervix Signature Generation from Radiomic Biomarkers
+# Cervix Signature Generation from Radiomic Biomarkers
 
 ## Overview
 
