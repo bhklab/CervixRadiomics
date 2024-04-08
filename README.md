@@ -30,7 +30,7 @@ Radiomic biomarkers offer valuable insights into cervical cancer. This project a
 
 The code is organized as follows:
 
-- **train:** Contains data, notebook used to generate final signature. Multiple potential signatures were tested using CV of training set. A final model using an ensemble of 100 sets of 2 radiomics features was extracted as final signature
+- **train:** Contains data, notebook used to generate the final signature. Multiple potential signatures were tested using CV of training set. A final model using an ensemble of 100 sets of 2 radiomics features was extracted as final signature. Run "Radiomic_Signature.ipynb" in a jupyter notebook to generate the results. 
 - **archive** Scripts for any extra analysis conducted.
 - **validation:** Validates the generated signature on an internal PMH cohort.
 
